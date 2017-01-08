@@ -1,1 +1,8 @@
 creation of document
+
+main(int c, char** arg)
+{
+	led();
+	return 0;
+}
+
